@@ -2,7 +2,7 @@ phy=80
 che=100
 ma=100
 total=phy+che+ma
-per=total*100/150
+per=total*100/300
 print("physics:",phy)
 print("chemistry:",che)
 print("maths:",ma)
