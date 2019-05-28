@@ -1,0 +1,5 @@
+user=input("user:")
+pass=input("password:")
+if pass=5630
+    print("yes")
+
