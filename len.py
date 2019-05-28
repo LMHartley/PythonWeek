@@ -1,5 +1,5 @@
 msg=input("enter message here:")
-i=0
-while i<len(msg):
+i=len(msg)-1
+while i>=0:
     print(msg[i])
-    i=i+1
+    i=i-1
