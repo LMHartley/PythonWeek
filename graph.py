@@ -8,4 +8,4 @@ plt.ylabel("rice production")
 plt.title("rice production per year")
 
 plt.plot(year, rice)
-plt.show()
+plt.show()g
